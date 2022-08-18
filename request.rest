@@ -1,0 +1,11 @@
+
+
+POST http://localhost:8000/api/auth/signup 
+Content-Type:application/json
+
+{
+    "name":"wewel",
+    "email":"wawalsuper@gmail.com",
+    "password":"123"
+}
+
